@@ -15,3 +15,5 @@ Comments or suggestions? You can join the telegram channel and group to particia
 
 
 ![Image of Box front top view](https://github.com/functionland/box-design-blender/blob/5cdc054e43bfcf3970a3cc172698bf6ae6161d69/1.png)
+
+![Image of Base and Grid](https://github.com/functionland/box-design-blender/blob/4c93d45b4231de72f757a651419b08b156faae03/3.png)
